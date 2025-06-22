@@ -256,4 +256,17 @@ button {
     .options-container {
         padding: 2.4rem 3.2rem;
     }
+    .strength-container {
+        padding: 2.4rem 3.2rem;
+        gap: 3.2rem;
+    }
+    .strength-container h2 {
+        font-size: var(--fspreset3);
+    }
+    .generate-button {
+        margin: 0;
+    }
+    ul li {
+        font-size: var(--fspreset3);
+    }
 }
