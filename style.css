@@ -237,3 +237,23 @@ button {
     color: var(--Grey200);
     visibility: hidden;
 }
+
+@media screen and (min-width:768px) {
+    .main-container {
+        max-width: 54rem;
+    }
+    
+    h1 {
+        font-size: var(--fspreset2);
+    }
+
+    .password-field-container {
+        padding: 1.6rem 3.2rem;
+    }
+    .password-field-container input {
+        font-size: var(--fspreset1);
+    }
+    .options-container {
+        padding: 2.4rem 3.2rem;
+    }
+}
