@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of the password generator app](./screenshot.jpg)
+![Screenshot of the password generator app](./assets/images/Screenshot%202025-06-21%20213142.png)
 
 ### Links
 
