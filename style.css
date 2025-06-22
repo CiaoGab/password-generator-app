@@ -265,6 +265,7 @@ button {
     }
     .generate-button {
         margin: 0;
+        height: 6.5rem;
     }
     ul li {
         font-size: var(--fspreset3);
